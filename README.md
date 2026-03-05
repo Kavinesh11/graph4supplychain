@@ -1,6 +1,8 @@
 <div align="center">
  Graphs4SupplyChain - GNN-Powered Supply Chain Analytics
+</div>
 
+<div align="center">
 ![G4SC](image.jpeg)
 
 
