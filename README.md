@@ -1,11 +1,10 @@
 <div align="center">
  Graphs4SupplyChain - GNN-Powered Supply Chain Analytics
+
+![G4SC](image.jpeg)
 </div>
 
 <div align="center">
-![G4SC](image.jpeg)
-
-
 > Advanced Graph Neural Networks for Supply Chain Forecasting, Node Classification, and Predictive Analytics
 </div>
 
